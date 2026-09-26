@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Hassan, a final year computer science student specializing in artificial intelligence.
+
+My main expertise regarding programming languages lies in python, C#, SQL, C++ and java. I am also an amateur solo game developer working with Godot.
+
+I have worked on multiple projects related to both machine learning and natural language processing as part of my bachelor's degree.
+
+You can reach me on my [LinkedIn](https://www.linkedin.com/in/hassan-hayat-988a93439/)
