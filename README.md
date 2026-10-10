@@ -19,6 +19,6 @@ I'm Hassan, a final year computer science student specializing in artificial int
 
 My main expertise regarding programming languages lies in python, C#, SQL, C++ and java. I am also an amateur solo game developer working with Godot.
 
-I have worked on multiple projects related to both machine learning and natural language processing as part of my bachelor's degree.
+I have worked on multiple projects related to the programming languages I am proficient in. From games to artificial intelligence to basic learning assignments.
 
 You can reach me on my [LinkedIn](https://www.linkedin.com/in/hassan-hayat-988a93439/)
