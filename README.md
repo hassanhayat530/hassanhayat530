@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Hassan, a final year computer science student specializing in artificial intelligence.
 
-My main expertise regarding programming languages lies in python, C#, SQL, C++ and java. I am also an amateur solo game developer working with Godot.
+My main expertise regarding programming languages lies in python, C#, SQL, C++ and java. I am also an amateur solo game developer working with Godot and Unity.
 
 I have worked on multiple projects related to the programming languages I am proficient in. From games to artificial intelligence to basic learning assignments.
 
